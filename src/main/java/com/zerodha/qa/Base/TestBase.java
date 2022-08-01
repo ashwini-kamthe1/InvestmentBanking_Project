@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class TestBase {
-	
+	//This is test base class.
 	public static WebDriver driver;
 	 
 	public void intializeBrowser(String browser) {
